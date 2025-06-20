@@ -8,7 +8,7 @@ Welcome! This repository contains my latest resume, tailored for software develo
 
 > Click the link below to view or download the PDF version of my resume:
 
-[📥 Download Resume](https://shivamsharma.github.io/resume/resume.pdf)
+[📥 Download Resume](https://shivamsharma.github.io/Shivam_Resume/Shivam_Resume.pdf)
 
 ---
 
